@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  2.8
+//  Permutations
 //
 //  Created by Stanislav Martynov on 30.12.2020.
 //
